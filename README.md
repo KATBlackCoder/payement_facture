@@ -15,5 +15,8 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 
 You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
 
-#Pour linux
+pnpm add -D daisyui@latest tailwindcss postcss autoprefixer
+
+pnpm add pinia vue-router@4 html2canvas-pro @supabase/supabase-js
+
 export WEBKIT_DISABLE_DMABUF_RENDERER=1
